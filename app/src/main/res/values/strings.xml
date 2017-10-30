@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="change_language">Change Language</string>
+    <string name="check">Check</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="language_item_english">English</string>
+    <string name="language_item_arabic">Arabic</string>
+</resources>

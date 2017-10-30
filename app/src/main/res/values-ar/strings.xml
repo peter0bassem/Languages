@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لغات</string>
+    <string name="change_language">تغيير لغة</string>
+    <string name="check">تأكد</string>
+    <string name="name">الإسم</string>
+    <string name="password">كلمة السر</string>
+    <string name="language_item_arabic">عربى</string>
+    <string name="language_item_english">إنجليزى</string>
+</resources>
